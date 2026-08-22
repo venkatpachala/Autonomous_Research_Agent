@@ -259,9 +259,3 @@ streamlit run app.py
 ```powershell
 python monitor.py
 ```
-
----
-
-## 🛡️ License
-
-MIT License. Designed and built for enterprise-grade autonomous AI research workflows.
